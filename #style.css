@@ -39,3 +39,8 @@ main{
 h1 {
     color: blueviolet;
 }
+
+footer{
+    background-color: deeppink;
+    padding: 45px;
+}
