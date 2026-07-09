@@ -66,10 +66,12 @@ footer{
     backface-visibility: hidden;
 }
 
+
 .cartao-verso {
     transform: rotateY(180deg);
 }
 
-.cartao-interno {
-
+section {
+    display: flex;
+    gap: 16px;
 }
