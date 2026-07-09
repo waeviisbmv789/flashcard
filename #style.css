@@ -46,3 +46,7 @@ footer{
     padding: 15px 25px;
     color: rgb(246, 81, 44);
 }
+
+.cartao-interno {
+    position: inherit;
+}
